@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**zeynepucuncuoglu/zeynepucuncuoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zeynep, a passionate software developer with a knack for problem-solving and a love for innovation. Recently graduated with a Bachelor of Science in Information Systems and Technologies from Bilkent University, Ankara.
 
-Here are some ideas to get you started:
+## Education 🎓
+- **B.Sc. in Information Systems and Technologies**, Bilkent University, Ankara (2017-2023)
+- **Çorum Atatürk Anadolu Lisesi** (2012-2016)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience 💼
+- **Microsoft Co. (Turkey) Internship** (Customer Success) - Feb 2022 to Nov 2022
+- **Netcad Yazılım A.Ş Internship** (R&D) - Aug 2021 to Sep 2021
+
+## Skills & Abilities 💻
+- Proficient in various programming languages including C, Java, JavaScript, Python, Swift, and more.
+- Experienced in database management with  MySQL, and PL-SQL.
+- Skilled in utilizing a range of development tools and frameworks such as ReactJS, Node JS, and .NET.
+- Fluent in both Turkish (native) and English (Advanced).
+
+
+
