@@ -10,6 +10,7 @@ I'm Zeynep, a passionate software developer with a knack for problem-solving and
 
 
 ### Tech Stack 🛠️
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,4 +35,4 @@ I'm Zeynep, a passionate software developer with a knack for problem-solving and
   - Utilized Flask Python for backend, integrated with MySQL on AWS RDS, and MongoDB for user data.
 
 
-Connect with me on [LinkedIn](Your LinkedIn Profile URL)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zeynepucuncuoglu/)
