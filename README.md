@@ -6,7 +6,8 @@ I'm Zeynep, a passionate software developer with a knack for problem-solving and
 - **B.Sc. in Information Systems and Technologies**, Bilkent University, Ankara (2017-2023)
 
 ## Work Experience 💼
-- **Microsoft Co. (Turkey) Internship** (Customer Success) - Feb 2022 to Nov 2022- **Netcad Yazılım A.Ş Internship** (R&D) - Aug 2021 to Sep 2021
+- **Microsoft Co. (Turkey) Internship** (Customer Success) - Feb 2022 to Nov 2022
+- **Netcad Yazılım A.Ş Internship** (R&D) - Aug 2021 to Sep 2021
 
 
 ### Tech Stack 🛠️
