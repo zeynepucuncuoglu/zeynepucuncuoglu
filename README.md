@@ -29,11 +29,7 @@ I'm Zeynep, a passionate software developer with a knack for problem-solving and
 ## Certificates 🏆
 - **IELTS 7/9** (June 2019)
 
-## Projects 🚀
-- **Senior Project: WTFi - What The Finance** (Bilkent University, Ankara) - Frontend Developer
-  - Developed a web-based solution using React and Tailwind CSS for predicting sectoral financial distress.
-  - Leveraged Machine Learning techniques and implemented K-means algorithm for advanced data analysis.
-  - Utilized Flask Python for backend, integrated with MySQL on AWS RDS, and MongoDB for user data.
+
 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zeynepucuncuoglu/)
